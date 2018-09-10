@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://github.com/Qgap/in-house/blob/master/TSCredit.ipa?raw=true</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://raw.githubusercontent.com/myafer/qqdai/master/image.57*57.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://raw.githubusercontent.com/myafer/qqdai/master/image.512*512</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.tsjinrong.client</string>
+				<key>bundle-version</key>
+				<string>2.3.2</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>e诺钱包客户端</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
